@@ -1,0 +1,31 @@
+Script started on 2026-01-24 05:12:11-08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ [K]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ echo "Hello and welcome to the new quarter!'[1P[1@'
+[?2004lHello and welcome to the new quarter!
+[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ date
+[?2004lSat Jan 24 05:13:04 AM PST 2026
+[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ echo $home[K[K[KH[K[KHOME
+[?2004l/home/xuhaoran
+[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ cd ~
+[?2004l[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ ls
+[?2004lhw1.problem1
+[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ mkdir temp
+[?2004l[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ mv tem [Kp temp_new
+[?2004l[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ cd temp_new
+[?2004l[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~/temp_new[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~/temp_new[00m$ touch fi;le[K[K[Kle5
+[?2004l[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~/temp_new[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~/temp_new[00m$ mv [K file54[K[K5 test
+[?2004l[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~/temp_new[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~/temp_new[00m$ cd ..
+[?2004l[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ ls
+[?2004lhw1.problem1  [0m[01;34mtemp_new[0m
+[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ rm -rf temp_new
+[?2004l[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ echo "[K'It's a secret!' ?[K> sercret[K[K[K[K[Kcretf[Kfile
+[?2004lbash: !': event not found
+[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ echo "It's a secret!'[K'[K" > secretfile
+[?2004l[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ chmod a [K-w secretfile
+[?2004l[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ ls -l sde[K[K[Ksecretfile
+[?2004l-r--r--r-- 1 xuhaoran xuhaoran 15 Jan 24 05:15 secretfile
+[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ cat b[K??[K[K>> secretfile
+[?2004lbash: secretfile: Permission denied
+[?2004h]0;xuhaoran@DESKTOP-D74UN41: ~[01;32mxuhaoran@DESKTOP-D74UN41[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2026-01-24 05:16:17-08:00 [COMMAND_EXIT_CODE="1"]
