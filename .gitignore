@@ -6,3 +6,9 @@ tmp/
 ~*
 *.o
 *.a
+
+# hw_5 generated files
+hw_5/output.ppm
+hw_5/regression.ppm
+hw_5/kmeans
+hw_5/regression
